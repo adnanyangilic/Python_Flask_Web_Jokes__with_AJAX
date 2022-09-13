@@ -6,7 +6,7 @@ I built project in Visual Studio 2019
 
 Install newest Python language support packages onto Visual Studio.
 Start a Python web project in Visual Studio. 
-Right click to Python environments-->Python 3.9
+Right click to Python environments-->Python 3.9-->
 Select "pip install flask" option from the selection options (most likely it is the first option)
 After packages installed right click to project and add a new empty python file.
 In this repo you can copy module1.py content and paste it into your new empty python file.
